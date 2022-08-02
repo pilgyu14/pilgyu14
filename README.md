@@ -8,16 +8,16 @@
 ## Portfolio
 
 
-### 😊 경력
+### 😊 Career
 
 |종류|날짜|내용|조직|
 |---|---|---|---|
 |🎓 고등학교|2021 ~|게임개발과|경기게임마이스터고
 
-### 🛠️ 툴&스킬
+### 🛠️ Tool&Skill
 
 
-### 💻 깃허브 정보 
+### 💻 Github Info
 
   
 ![pilgyu14's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilgyu14&show_icons=true&theme=dracula)
