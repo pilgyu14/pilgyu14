@@ -1,9 +1,10 @@
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Pilgyu%20Kim&fontSize=90&animation=fadeIn)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
-### Hi👋! I'm Pilgyu Kim 😄 
+## Hi👋! I'm Pilgyu Kim 😄 
 # 
 ## Portfolio
 ---
