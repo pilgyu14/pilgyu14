@@ -18,8 +18,7 @@
 
 
 ### 💻 깃허브 정보 
-# 
-# 
+
   
 ![pilgyu14's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilgyu14&show_icons=true&theme=dracula)
 
