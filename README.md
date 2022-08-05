@@ -22,7 +22,7 @@
   
 ![pilgyu14's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilgyu14&show_icons=true&theme=dracula)
 
-[![pilgyu14's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![pilgyu14's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilgyu14)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
